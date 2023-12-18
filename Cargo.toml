@@ -1,0 +1,10 @@
+[package]
+name = "rockbox-sys"
+version = "0.1.0"
+edition = "2021"
+license = "GPL-2.0-or-later"
+description = "Rust binding to the rockbox plugin API, raw ffi bindings"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
